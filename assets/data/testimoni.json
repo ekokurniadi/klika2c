@@ -1,0 +1,46 @@
+{
+    "status": 200,
+    "message": "Successfully get testimony data",
+    "schema": "List of testimony",
+    "data": [{
+            "id": 1,
+            "image_thumbnail": "thumbnail1.png",
+            "fullwidth_image": "thumbnail1-full.png",
+            "person_name": "Pak Agung",
+            "person_job": "Petani Kelapa",
+            "caption": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "amount": "Rp25.000.000",
+            "time": "5 menit"
+        },
+        {
+            "id": 2,
+            "image_thumbnail": "thumbnail2.png",
+            "fullwidth_image": "thumbnail2.png",
+            "person_name": "Bu Anggi",
+            "person_job": "",
+            "caption": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "amount": "Rp20.000.000",
+            "time": "6 menit"
+        },
+        {
+            "id": 3,
+            "image_thumbnail": "thumbnail3.png",
+            "fullwidth_image": "thumbnail3.png",
+            "person_name": "Pak Broto",
+            "person_job": "",
+            "caption": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "amount": "Rp28.000.000",
+            "time": "8 menit"
+        },
+        {
+            "id": 4,
+            "image_thumbnail": "thumbnail4.png",
+            "fullwidth_image": "thumbnail4.png",
+            "person_name": "Bu Shinta",
+            "person_job": "",
+            "caption": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "amount": "Rp15.000.000",
+            "time": "3 menit"
+        }
+    ]
+}
