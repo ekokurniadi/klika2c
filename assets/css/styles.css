@@ -40,6 +40,10 @@ div.image-testimoni-group div.image-testimoni-item {
     cursor: pointer;
 }
 
+div.image-testimoni-group div.image-testimoni-item img.img-testimoni:hover+div.circle-button-read {
+    display: flex;
+}
+
 div.image-testimoni-group div.image-testimoni-item img.img-testimoni {
     position: absolute;
     width: 379.8px;
@@ -67,7 +71,7 @@ div.image-testimoni-group div.image-testimoni-item div.circle-button-read {
     opacity: 0.8;
     z-index: 3;
     border-radius: 50%;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     padding-left: 32px;
@@ -81,6 +85,7 @@ div.image-testimoni-group div.image-testimoni-item div.circle-button-read a {
     letter-spacing: 1%;
     text-transform: uppercase;
     text-align: center;
+    color: #F3CB4D;
 }
 
 @media only screen and (max-width:600px) {
